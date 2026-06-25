@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bog",
+    "label": "Bogotá",
+    "lat": 4.71,
+    "lon": -74.07,
+    "x": 91,
+    "y": 259.5,
+    "hub": true
+  },
+  {
+    "id": "mia",
+    "label": "Miami",
+    "lat": 25.76,
+    "lon": -80.19,
+    "x": 64.4,
+    "y": 160.7,
+    "hub": false
+  },
+  {
+    "id": "sao",
+    "label": "São Paulo",
+    "lat": -23.55,
+    "lon": -46.63,
+    "x": 210.3,
+    "y": 392.2,
+    "hub": false
+  },
+  {
+    "id": "mad",
+    "label": "Madrid",
+    "lat": 40.42,
+    "lon": -3.7,
+    "x": 397,
+    "y": 91.9,
+    "hub": false
+  },
+  {
+    "id": "rot",
+    "label": "Rotterdam",
+    "lat": 51.92,
+    "lon": 4.48,
+    "x": 432.5,
+    "y": 37.9,
+    "hub": false
+  },
+  {
+    "id": "dxb",
+    "label": "Dubái",
+    "lat": 25.2,
+    "lon": 55.27,
+    "x": 653.3,
+    "y": 163.3,
+    "hub": false
+  },
+  {
+    "id": "sin",
+    "label": "Singapur",
+    "lat": 1.35,
+    "lon": 103.82,
+    "x": 864.4,
+    "y": 275.3,
+    "hub": false
+  },
+  {
+    "id": "sha",
+    "label": "Shanghái",
+    "lat": 31.23,
+    "lon": 121.47,
+    "x": 941.2,
+    "y": 135,
+    "hub": false
+  }
+]
